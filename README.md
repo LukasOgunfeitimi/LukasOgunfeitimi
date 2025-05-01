@@ -1,12 +1,10 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Lukas Ogunfeitimi</h1>
-<h3 align="center">A Passionate Game Developer & Back-End Developer From Northampton, United Kingdom</h3>
-
-<p><img align="left" src="" alt="lukasogunfeitimi" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukasogunfeitimi&" alt="lukasogunfeitimi" /></p>
-
-
+ <h3 align="center">A Passionate Game Developer & Back-End Developer From Northampton , United Kingdom</h3>
+ 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukasogunfeitimi&show_icons=true&locale=en&layout=compact" alt="lukasogunfeitimi" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukasogunfeitimi&" alt="lukasogunfeitimi" /></p>
 
 <!--
 **LukasOgunfeitimi/LukasOgunfeitimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
