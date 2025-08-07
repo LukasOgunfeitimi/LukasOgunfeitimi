@@ -2,7 +2,7 @@
 # Business Activity Statement
 
 **Company Name:** L47 Limited  
-**Company Number:** [Insert Company Number]  
+**Company Number:** 16635121
 **Date:** 7 August 2025  
 
 ---
